@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565704778072",
+    "project_id": "norse-f7bc5",
+    "storage_bucket": "norse-f7bc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565704778072:android:407bd7208dcc10bfd6852d",
+        "android_client_info": {
+          "package_name": "com.space.norse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD940jI41ezoJl_gaQzEEjyWs4cW7rHZXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
